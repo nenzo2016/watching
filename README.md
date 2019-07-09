@@ -3,7 +3,7 @@
 
 ndoe.js + mysql
 
-ko2 + sequelize
+ko2 + sequelize + nunjucks
 
 [online](http://taobao.madao.online)
 
